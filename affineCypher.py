@@ -35,9 +35,9 @@ def affineCypher(slope, y_intercept, string):
     return "".join(results)
 
 ### SETTINGS ###
-a = 5
-b = 6
-string = "test"
+a = input("Enter a slope value: ")
+b = input("Enter a Y intercept value: ")
+string = input("Enter a string to cypher: ")
 
 # Using function 'affineCypher()' and inputting variables
 results = affineCypher(a, b, string)
