@@ -2,6 +2,8 @@
 TITLE: Affine Cypher
 AUTHOR: Dylan Hartman
 DATE: December 9, 2022
+
+This is a simple script that uses the Affine Cyher algorithm.
 """
 
 # A list of the entire alphabet
